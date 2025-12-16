@@ -1,0 +1,30 @@
+{
+  "response": [
+    {
+      "maintainer": "MT6897A",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "duchamp",
+      "filename": "EvolutionX-16.0-20251215-duchamp-11.5-Unofficial.zip",
+      "download": "https://drive.serverhive.in/drive/2ka4jcosZ3byEDEeFH9FDMzx/duchamp/2025-12-11/EvolutionX-16.0-20251211-duchamp-11.5-Unofficial.zip",
+      "timestamp": 1765831308,
+      "md5": "e9cb3216e57d12c1784cef20d3d56359",
+      "sha256": "34b466eecec552603b1ab1526644b6f9a7e8a7d02eab0d61f956689f50cb1a6c",
+      "size": 2980000000,
+      "version": "11.5 BETA 2",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/duchamp_evox_duscussion",
+      "firmware": "",
+      "paypal": "",
+      "github": "MT6897A",
+      "initial_installation_images": [
+         "boot",
+        "init_boot",
+        "vendor_boot"
+      ],
+      "extra_images": [
+        ""
+      ]
+    }
+  ]
+}
